@@ -1,0 +1,13 @@
+[
+    {
+
+        "model": "tjcodinggame_app.GameUser",
+        "pk" : 1,
+        "fields" : {
+            "username" : "Food",
+            "password" : "pizza",
+            "level" : "0",
+            "email" : "email@hotmail.com"
+        }
+    }
+]

@@ -1,0 +1,1 @@
+web: gunicorn tjcodinggame.wsgi --log-file -
