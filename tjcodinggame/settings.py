@@ -140,7 +140,7 @@ AUTH_USER_MODEL = 'tjcodinggame_app.User'
 
 import dj_database_url
 
-DATABASE_URL = 'postgresql://postgres:vEvuug1spDeLXbEIPOgL@containers-us-west-206.railway.app:7259/railway'
+DATABASE_URL = 'postgresql://postgres:GivFiZ08xnuLnL7j1XXG@containers-us-west-50.railway.app:5595/railway'
 
 # DATABASE_URL = os.getenv("DATABASE_URL")
 
