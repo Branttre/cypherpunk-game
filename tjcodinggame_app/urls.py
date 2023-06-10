@@ -8,7 +8,7 @@ urlpatterns = [
     path('user/curruser/', views.curr_user),
     path('user/logout/', views.userlogout),
     path('gamescreen/', views.gamescreen),
-    path('pluslevel/', views.pluslevel),
+    path('https://web-production-e42a.up.railway.app/pluslevel/', views.pluslevel),
     path('minuslevel/', views.minuslevel),
     path('profile/user/changeEmail/', views.changeemail),
     path('profile/user/changePassword/', views.changepassword),
